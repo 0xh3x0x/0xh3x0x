@@ -21,11 +21,11 @@
 ## 📈 My Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KamleshKathiriya&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=0xh3x0x&theme=tokyonight" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=KamleshKathiriya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xh3x0x&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamleshKathiriya&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xh3x0x&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
