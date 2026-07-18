@@ -55,7 +55,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0xh3x0x.github.io-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://0xh3x0x.github.io)
 [![TryHackme](https://img.shields.io/badge/TryHackMe-Top%20Ranker-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Kamlesh.Kathiriy)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Elite-green?style=for-the-badge&logo=hackthebox)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamlesh-Kathiriya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Kamlesh-Kathiriya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamlesh-Kathiriya?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Kamlesh-Kathiriya)
 [![Email](https://img.shields.io/badge/Email-0xh3x@protonmail.com-22d3ee?style=for-the-badge&logo=protonmail)](mailto:0xh3x@protonmail.com)
 
 <br>
