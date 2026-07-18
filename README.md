@@ -11,9 +11,8 @@
 <!-- Profile README -->
 
 <h1><code>Hey 👋, I'm 0xh3x</code></h1>
-
-<h1 align="center"></h1>
 <h3 align="center">🔐 Ethical Hacker | 🛡️ Penetration Tester | 🚀 Cybersecurity Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Red+Teamer+in+Progress;Breaking+Boxes+%F0%9F%92%94;Always+Learning+New+Exploits;TryHackMe+Top+Ranker&center=true&width=500&height=45" alt="Typing SVG" />
@@ -30,8 +29,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./0xh3x0x-ascii.svg" width="370" alt="0xh3x0x Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="0xh3x0x Vashishta — experience, stack, highlights" /></td>
+<td valign="top"><img src="./0xh3x-ascii.svg" width="370" alt="0xh3x0x — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="0xh3x — experience, stack, highlights" /></td>
 </tr>
 </table>
 
