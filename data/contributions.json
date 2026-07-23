@@ -1,22 +1,22 @@
 {
   "username": "0xh3x0x",
-  "generated_at": "2026-07-22T08:47:45Z",
+  "generated_at": "2026-07-23T08:47:10Z",
   "range": {
     "start": "2025-07-20",
+    "end": "2026-07-23"
+  },
+  "total_contributions": 44,
+  "active_days": 11,
+  "avg_per_active_day": 4.0,
+  "current_streak": {
+    "length": 6,
+    "start": "2026-07-17",
     "end": "2026-07-22"
   },
-  "total_contributions": 43,
-  "active_days": 10,
-  "avg_per_active_day": 4.3,
-  "current_streak": {
-    "length": 5,
-    "start": "2026-07-17",
-    "end": "2026-07-21"
-  },
   "longest_streak": {
-    "length": 5,
+    "length": 6,
     "start": "2026-07-17",
-    "end": "2026-07-21"
+    "end": "2026-07-22"
   },
   "best_day": {
     "date": "2026-07-18",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-07",
-      "total": 18
+      "total": 19
     }
   ],
   "days": [
@@ -1547,6 +1547,10 @@
     },
     {
       "date": "2026-07-22",
+      "count": 1
+    },
+    {
+      "date": "2026-07-23",
       "count": 0
     }
   ]
